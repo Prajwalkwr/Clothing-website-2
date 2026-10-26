@@ -1,0 +1,16 @@
+[
+  {
+    "id": "drop-001",
+    "slug": "drop-001",
+    "name": "Drop 001 — First Edition",
+    "description": "An early AAVARAN design kept as part of the label's evolving visual diary. This is archived demo content, not a live release.",
+    "image": "/images/hero-campaign.jpg",
+    "status": "ended",
+    "releaseAt": null,
+    "endAt": null,
+    "editionQuantity": null,
+    "productIds": ["tee-drop001"],
+    "visible": true,
+    "notifyEnabled": false
+  }
+]

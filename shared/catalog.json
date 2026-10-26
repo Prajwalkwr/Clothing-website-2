@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "tee-everyday",
+    "slug": "everyday-oversized-tee",
+    "name": "Everyday Oversized Tee",
+    "category": "T-shirts",
+    "categorySlug": "t-shirts",
+    "price": 3200,
+    "compareAtPrice": null,
+    "description": "An easy, relaxed layer with a dropped shoulder and a little more room through the body. Made for the everyday rotation.",
+    "material": "Midweight cotton jersey (demo specification)",
+    "care": "Wash cold with like colours. Turn inside out before washing. Do not tumble dry.",
+    "fit": "Relaxed, oversized fit. Take your usual size for the intended shape.",
+    "images": [
+      "/images/product-tee.jpg",
+      "/images/hero-campaign.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#343431"
+      },
+      {
+        "name": "Oat",
+        "hex": "#D9D2C7"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "publishedAt": "2026-10-02T09:00:00+05:45",
+    "labels": [
+      "New"
+    ],
+    "featuredTrending": true,
+    "popularityScore": 88,
+    "collections": [
+      "everyday-uniform",
+      "summer"
+    ],
+    "season": "summer",
+    "variants": [
+      {
+        "id": "tee-everyday-charcoal-xs",
+        "sku": "AAV-TEE-CHA-XS",
+        "size": "XS",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "tee-everyday-charcoal-s",
+        "sku": "AAV-TEE-CHA-S",
+        "size": "S",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "tee-everyday-charcoal-m",
+        "sku": "AAV-TEE-CHA-M",
+        "size": "M",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 9,
+        "active": true
+      },
+      {
+        "id": "tee-everyday-charcoal-l",
+        "sku": "AAV-TEE-CHA-L",
+        "size": "L",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "tee-everyday-charcoal-xl",
+        "sku": "AAV-TEE-CHA-XL",
+        "size": "XL",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "tee-everyday-oat-xs",
+        "sku": "AAV-TEE-OAT-XS",
+        "size": "XS",
+        "color": "Oat",
+        "colorHex": "#D9D2C7",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "tee-everyday-oat-s",
+        "sku": "AAV-TEE-OAT-S",
+        "size": "S",
+        "color": "Oat",
+        "colorHex": "#D9D2C7",
+        "stock": 9,
+        "active": true
+      },
+      {
+        "id": "tee-everyday-oat-m",
+        "sku": "AAV-TEE-OAT-M",
+        "size": "M",
+        "color": "Oat",
+        "colorHex": "#D9D2C7",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "tee-everyday-oat-l",
+        "sku": "AAV-TEE-OAT-L",
+        "size": "L",
+        "color": "Oat",
+        "colorHex": "#D9D2C7",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "tee-everyday-oat-xl",
+        "sku": "AAV-TEE-OAT-XL",
+        "size": "XL",
+        "color": "Oat",
+        "colorHex": "#D9D2C7",
+        "stock": 9,
+        "active": true
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "shirt-kathmandu",
+    "slug": "kathmandu-boxy-shirt",
+    "name": "Kathmandu Boxy Shirt",
+    "category": "Shirts",
+    "categorySlug": "shirts",
+    "price": 5400,
+    "compareAtPrice": null,
+    "description": "A clean, boxy button-up with an easy drape and considered proportions. Wear it open over a tee or buttoned on its own.",
+    "material": "Cotton poplin (demo specification)",
+    "care": "Wash gently with similar colours. Line dry. Cool iron if needed.",
+    "fit": "Boxy through the body with a straight hem. Model wears size M.",
+    "images": [
+      "/images/product-shirt.jpg",
+      "/images/campaign-summer.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Chalk",
+        "hex": "#E8E2D8"
+      },
+      {
+        "name": "Rust",
+        "hex": "#A65D43"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "publishedAt": "2026-09-27T09:00:00+05:45",
+    "labels": [
+      "New"
+    ],
+    "featuredTrending": true,
+    "popularityScore": 83,
+    "collections": [
+      "everyday-uniform",
+      "summer"
+    ],
+    "season": "summer",
+    "variants": [
+      {
+        "id": "shirt-kathmandu-chalk-xs",
+        "sku": "AAV-SHI-CHA-XS",
+        "size": "XS",
+        "color": "Chalk",
+        "colorHex": "#E8E2D8",
+        "stock": 6,
+        "active": true
+      },
+      {
+        "id": "shirt-kathmandu-chalk-s",
+        "sku": "AAV-SHI-CHA-S",
+        "size": "S",
+        "color": "Chalk",
+        "colorHex": "#E8E2D8",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "shirt-kathmandu-chalk-m",
+        "sku": "AAV-SHI-CHA-M",
+        "size": "M",
+        "color": "Chalk",
+        "colorHex": "#E8E2D8",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "shirt-kathmandu-chalk-l",
+        "sku": "AAV-SHI-CHA-L",
+        "size": "L",
+        "color": "Chalk",
+        "colorHex": "#E8E2D8",
+        "stock": 6,
+        "active": true
+      },
+      {
+        "id": "shirt-kathmandu-chalk-xl",
+        "sku": "AAV-SHI-CHA-XL",
+        "size": "XL",
+        "color": "Chalk",
+        "colorHex": "#E8E2D8",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "shirt-kathmandu-rust-xs",
+        "sku": "AAV-SHI-RUS-XS",
+        "size": "XS",
+        "color": "Rust",
+        "colorHex": "#A65D43",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "shirt-kathmandu-rust-s",
+        "sku": "AAV-SHI-RUS-S",
+        "size": "S",
+        "color": "Rust",
+        "colorHex": "#A65D43",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "shirt-kathmandu-rust-m",
+        "sku": "AAV-SHI-RUS-M",
+        "size": "M",
+        "color": "Rust",
+        "colorHex": "#A65D43",
+        "stock": 6,
+        "active": true
+      },
+      {
+        "id": "shirt-kathmandu-rust-l",
+        "sku": "AAV-SHI-RUS-L",
+        "size": "L",
+        "color": "Rust",
+        "colorHex": "#A65D43",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "shirt-kathmandu-rust-xl",
+        "sku": "AAV-SHI-RUS-XL",
+        "size": "XL",
+        "color": "Rust",
+        "colorHex": "#A65D43",
+        "stock": 8,
+        "active": true
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "trousers-relaxed",
+    "slug": "essential-relaxed-trousers",
+    "name": "Essential Relaxed Trousers",
+    "category": "Trousers & bottoms",
+    "categorySlug": "trousers",
+    "price": 5900,
+    "compareAtPrice": null,
+    "description": "An everyday trouser with a relaxed leg, a clean front, and functional side pockets. The versatile shape works from morning to late.",
+    "material": "Cotton twill (demo specification)",
+    "care": "Machine wash cold. Wash inside out with similar colours. Line dry.",
+    "fit": "Relaxed straight leg with a mid-rise waist.",
+    "images": [
+      "/images/product-trousers.jpg",
+      "/images/product-shirt.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Muted Olive",
+        "hex": "#777B63"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#343431"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "publishedAt": "2026-09-18T09:00:00+05:45",
+    "labels": [],
+    "featuredTrending": true,
+    "popularityScore": 91,
+    "collections": [
+      "everyday-uniform",
+      "summer"
+    ],
+    "season": "summer",
+    "variants": [
+      {
+        "id": "trousers-relaxed-muted-olive-xs",
+        "sku": "AAV-TRO-MUT-XS",
+        "size": "XS",
+        "color": "Muted Olive",
+        "colorHex": "#777B63",
+        "stock": 5,
+        "active": true
+      },
+      {
+        "id": "trousers-relaxed-muted-olive-s",
+        "sku": "AAV-TRO-MUT-S",
+        "size": "S",
+        "color": "Muted Olive",
+        "colorHex": "#777B63",
+        "stock": 6,
+        "active": true
+      },
+      {
+        "id": "trousers-relaxed-muted-olive-m",
+        "sku": "AAV-TRO-MUT-M",
+        "size": "M",
+        "color": "Muted Olive",
+        "colorHex": "#777B63",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "trousers-relaxed-muted-olive-l",
+        "sku": "AAV-TRO-MUT-L",
+        "size": "L",
+        "color": "Muted Olive",
+        "colorHex": "#777B63",
+        "stock": 5,
+        "active": true
+      },
+      {
+        "id": "trousers-relaxed-muted-olive-xl",
+        "sku": "AAV-TRO-MUT-XL",
+        "size": "XL",
+        "color": "Muted Olive",
+        "colorHex": "#777B63",
+        "stock": 6,
+        "active": true
+      },
+      {
+        "id": "trousers-relaxed-charcoal-xs",
+        "sku": "AAV-TRO-CHA-XS",
+        "size": "XS",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 6,
+        "active": true
+      },
+      {
+        "id": "trousers-relaxed-charcoal-s",
+        "sku": "AAV-TRO-CHA-S",
+        "size": "S",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "trousers-relaxed-charcoal-m",
+        "sku": "AAV-TRO-CHA-M",
+        "size": "M",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 5,
+        "active": true
+      },
+      {
+        "id": "trousers-relaxed-charcoal-l",
+        "sku": "AAV-TRO-CHA-L",
+        "size": "L",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 6,
+        "active": true
+      },
+      {
+        "id": "trousers-relaxed-charcoal-xl",
+        "sku": "AAV-TRO-CHA-XL",
+        "size": "XL",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 7,
+        "active": true
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "hoodie-core",
+    "slug": "core-pullover-hoodie",
+    "name": "Core Pullover Hoodie",
+    "category": "Hoodies & sweatshirts",
+    "categorySlug": "hoodies",
+    "price": 6800,
+    "compareAtPrice": null,
+    "description": "A soft, substantial layer with a clean front and a comfortably relaxed silhouette. An everyday piece for cooler days and slower mornings.",
+    "material": "Cotton blend fleece (demo specification)",
+    "care": "Wash cold, inside out. Reshape while damp. Do not iron directly over prints.",
+    "fit": "Relaxed fit with a roomy hood. Choose your regular size.",
+    "images": [
+      "/images/product-hoodie.jpg",
+      "/images/product-overshirt.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Moss",
+        "hex": "#777B63"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#343431"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "publishedAt": "2026-08-31T09:00:00+05:45",
+    "labels": [],
+    "featuredTrending": true,
+    "popularityScore": 86,
+    "collections": [
+      "everyday-uniform",
+      "winter"
+    ],
+    "season": "winter",
+    "variants": [
+      {
+        "id": "hoodie-core-moss-xs",
+        "sku": "AAV-HOO-MOS-XS",
+        "size": "XS",
+        "color": "Moss",
+        "colorHex": "#777B63",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "hoodie-core-moss-s",
+        "sku": "AAV-HOO-MOS-S",
+        "size": "S",
+        "color": "Moss",
+        "colorHex": "#777B63",
+        "stock": 9,
+        "active": true
+      },
+      {
+        "id": "hoodie-core-moss-m",
+        "sku": "AAV-HOO-MOS-M",
+        "size": "M",
+        "color": "Moss",
+        "colorHex": "#777B63",
+        "stock": 10,
+        "active": true
+      },
+      {
+        "id": "hoodie-core-moss-l",
+        "sku": "AAV-HOO-MOS-L",
+        "size": "L",
+        "color": "Moss",
+        "colorHex": "#777B63",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "hoodie-core-moss-xl",
+        "sku": "AAV-HOO-MOS-XL",
+        "size": "XL",
+        "color": "Moss",
+        "colorHex": "#777B63",
+        "stock": 9,
+        "active": true
+      },
+      {
+        "id": "hoodie-core-charcoal-xs",
+        "sku": "AAV-HOO-CHA-XS",
+        "size": "XS",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 9,
+        "active": true
+      },
+      {
+        "id": "hoodie-core-charcoal-s",
+        "sku": "AAV-HOO-CHA-S",
+        "size": "S",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 10,
+        "active": true
+      },
+      {
+        "id": "hoodie-core-charcoal-m",
+        "sku": "AAV-HOO-CHA-M",
+        "size": "M",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "hoodie-core-charcoal-l",
+        "sku": "AAV-HOO-CHA-L",
+        "size": "L",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 9,
+        "active": true
+      },
+      {
+        "id": "hoodie-core-charcoal-xl",
+        "sku": "AAV-HOO-CHA-XL",
+        "size": "XL",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 10,
+        "active": true
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "overshirt-utility",
+    "slug": "utility-overshirt",
+    "name": "Utility Overshirt",
+    "category": "Shirts",
+    "categorySlug": "shirts",
+    "price": 7400,
+    "compareAtPrice": null,
+    "description": "A versatile top layer with practical pockets and a relaxed shape. Easy over a T-shirt, with enough structure to wear on its own.",
+    "material": "Cotton twill (demo specification)",
+    "care": "Wash with similar colours on a gentle cycle. Line dry. Cool iron.",
+    "fit": "Relaxed, slightly boxy fit. Model wears size M.",
+    "images": [
+      "/images/product-overshirt.jpg",
+      "/images/hero-campaign.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Rust",
+        "hex": "#A65D43"
+      },
+      {
+        "name": "Olive",
+        "hex": "#777B63"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "publishedAt": "2026-08-15T09:00:00+05:45",
+    "labels": [],
+    "featuredTrending": false,
+    "popularityScore": 73,
+    "collections": [
+      "everyday-uniform",
+      "winter"
+    ],
+    "season": "winter",
+    "variants": [
+      {
+        "id": "overshirt-utility-rust-s",
+        "sku": "AAV-OVE-RUS-S",
+        "size": "S",
+        "color": "Rust",
+        "colorHex": "#A65D43",
+        "stock": 4,
+        "active": true
+      },
+      {
+        "id": "overshirt-utility-rust-m",
+        "sku": "AAV-OVE-RUS-M",
+        "size": "M",
+        "color": "Rust",
+        "colorHex": "#A65D43",
+        "stock": 5,
+        "active": true
+      },
+      {
+        "id": "overshirt-utility-rust-l",
+        "sku": "AAV-OVE-RUS-L",
+        "size": "L",
+        "color": "Rust",
+        "colorHex": "#A65D43",
+        "stock": 6,
+        "active": true
+      },
+      {
+        "id": "overshirt-utility-rust-xl",
+        "sku": "AAV-OVE-RUS-XL",
+        "size": "XL",
+        "color": "Rust",
+        "colorHex": "#A65D43",
+        "stock": 4,
+        "active": true
+      },
+      {
+        "id": "overshirt-utility-olive-s",
+        "sku": "AAV-OVE-OLI-S",
+        "size": "S",
+        "color": "Olive",
+        "colorHex": "#777B63",
+        "stock": 5,
+        "active": true
+      },
+      {
+        "id": "overshirt-utility-olive-m",
+        "sku": "AAV-OVE-OLI-M",
+        "size": "M",
+        "color": "Olive",
+        "colorHex": "#777B63",
+        "stock": 6,
+        "active": true
+      },
+      {
+        "id": "overshirt-utility-olive-l",
+        "sku": "AAV-OVE-OLI-L",
+        "size": "L",
+        "color": "Olive",
+        "colorHex": "#777B63",
+        "stock": 4,
+        "active": true
+      },
+      {
+        "id": "overshirt-utility-olive-xl",
+        "sku": "AAV-OVE-OLI-XL",
+        "size": "XL",
+        "color": "Olive",
+        "colorHex": "#777B63",
+        "stock": 5,
+        "active": true
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "shirt-summer",
+    "slug": "lightweight-summer-shirt",
+    "name": "Lightweight Summer Shirt",
+    "category": "Shirts",
+    "categorySlug": "shirts",
+    "price": 5200,
+    "compareAtPrice": null,
+    "description": "A light, short-sleeve shirt with a relaxed shape and easy proportions. Designed to work tucked, untucked, or layered over a tank.",
+    "material": "Lightweight cotton (demo specification)",
+    "care": "Wash cold on a gentle cycle. Line dry in shade. Cool iron.",
+    "fit": "Relaxed straight fit with a slightly cropped hem.",
+    "images": [
+      "/images/campaign-summer.jpg",
+      "/images/product-shirt.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Warm White",
+        "hex": "#EEEAE2"
+      },
+      {
+        "name": "Stone Blue",
+        "hex": "#AAB6B4"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "publishedAt": "2026-08-07T09:00:00+05:45",
+    "labels": [],
+    "featuredTrending": false,
+    "popularityScore": 65,
+    "collections": [
+      "summer",
+      "everyday-uniform"
+    ],
+    "season": "summer",
+    "variants": [
+      {
+        "id": "shirt-summer-warm-white-xs",
+        "sku": "AAV-SHI-WAR-XS",
+        "size": "XS",
+        "color": "Warm White",
+        "colorHex": "#EEEAE2",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "shirt-summer-warm-white-s",
+        "sku": "AAV-SHI-WAR-S",
+        "size": "S",
+        "color": "Warm White",
+        "colorHex": "#EEEAE2",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "shirt-summer-warm-white-m",
+        "sku": "AAV-SHI-WAR-M",
+        "size": "M",
+        "color": "Warm White",
+        "colorHex": "#EEEAE2",
+        "stock": 9,
+        "active": true
+      },
+      {
+        "id": "shirt-summer-warm-white-l",
+        "sku": "AAV-SHI-WAR-L",
+        "size": "L",
+        "color": "Warm White",
+        "colorHex": "#EEEAE2",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "shirt-summer-warm-white-xl",
+        "sku": "AAV-SHI-WAR-XL",
+        "size": "XL",
+        "color": "Warm White",
+        "colorHex": "#EEEAE2",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "shirt-summer-stone-blue-xs",
+        "sku": "AAV-SHI-STO-XS",
+        "size": "XS",
+        "color": "Stone Blue",
+        "colorHex": "#AAB6B4",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "shirt-summer-stone-blue-s",
+        "sku": "AAV-SHI-STO-S",
+        "size": "S",
+        "color": "Stone Blue",
+        "colorHex": "#AAB6B4",
+        "stock": 9,
+        "active": true
+      },
+      {
+        "id": "shirt-summer-stone-blue-m",
+        "sku": "AAV-SHI-STO-M",
+        "size": "M",
+        "color": "Stone Blue",
+        "colorHex": "#AAB6B4",
+        "stock": 7,
+        "active": true
+      },
+      {
+        "id": "shirt-summer-stone-blue-l",
+        "sku": "AAV-SHI-STO-L",
+        "size": "L",
+        "color": "Stone Blue",
+        "colorHex": "#AAB6B4",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "shirt-summer-stone-blue-xl",
+        "sku": "AAV-SHI-STO-XL",
+        "size": "XL",
+        "color": "Stone Blue",
+        "colorHex": "#AAB6B4",
+        "stock": 9,
+        "active": true
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "jacket-winter",
+    "slug": "winter-layer-jacket",
+    "name": "Winter Layer Jacket",
+    "category": "Jackets & outerwear",
+    "categorySlug": "jackets",
+    "price": 9800,
+    "compareAtPrice": null,
+    "description": "A considered outer layer with a neat collar, useful pockets, and room to build a simple cold-weather outfit underneath.",
+    "material": "Cotton blend shell with soft lining (demo specification)",
+    "care": "Professional cleaning recommended. Close fastenings before care.",
+    "fit": "Regular fit with room for a mid-weight layer.",
+    "images": [
+      "/images/product-hoodie.jpg",
+      "/images/product-overshirt.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Graphite",
+        "hex": "#3D3D39"
+      },
+      {
+        "name": "Moss",
+        "hex": "#777B63"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "publishedAt": "2026-07-18T09:00:00+05:45",
+    "labels": [],
+    "featuredTrending": false,
+    "popularityScore": 70,
+    "collections": [
+      "winter",
+      "everyday-uniform"
+    ],
+    "season": "winter",
+    "variants": [
+      {
+        "id": "jacket-winter-graphite-s",
+        "sku": "AAV-JAC-GRA-S",
+        "size": "S",
+        "color": "Graphite",
+        "colorHex": "#3D3D39",
+        "stock": 3,
+        "active": true
+      },
+      {
+        "id": "jacket-winter-graphite-m",
+        "sku": "AAV-JAC-GRA-M",
+        "size": "M",
+        "color": "Graphite",
+        "colorHex": "#3D3D39",
+        "stock": 4,
+        "active": true
+      },
+      {
+        "id": "jacket-winter-graphite-l",
+        "sku": "AAV-JAC-GRA-L",
+        "size": "L",
+        "color": "Graphite",
+        "colorHex": "#3D3D39",
+        "stock": 5,
+        "active": true
+      },
+      {
+        "id": "jacket-winter-graphite-xl",
+        "sku": "AAV-JAC-GRA-XL",
+        "size": "XL",
+        "color": "Graphite",
+        "colorHex": "#3D3D39",
+        "stock": 3,
+        "active": true
+      },
+      {
+        "id": "jacket-winter-moss-s",
+        "sku": "AAV-JAC-MOS-S",
+        "size": "S",
+        "color": "Moss",
+        "colorHex": "#777B63",
+        "stock": 4,
+        "active": true
+      },
+      {
+        "id": "jacket-winter-moss-m",
+        "sku": "AAV-JAC-MOS-M",
+        "size": "M",
+        "color": "Moss",
+        "colorHex": "#777B63",
+        "stock": 5,
+        "active": true
+      },
+      {
+        "id": "jacket-winter-moss-l",
+        "sku": "AAV-JAC-MOS-L",
+        "size": "L",
+        "color": "Moss",
+        "colorHex": "#777B63",
+        "stock": 3,
+        "active": true
+      },
+      {
+        "id": "jacket-winter-moss-xl",
+        "sku": "AAV-JAC-MOS-XL",
+        "size": "XL",
+        "color": "Moss",
+        "colorHex": "#777B63",
+        "stock": 4,
+        "active": true
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "tote-canvas",
+    "slug": "minimal-canvas-tote",
+    "name": "Minimal Canvas Tote",
+    "category": "Accessories",
+    "categorySlug": "accessories",
+    "price": 2600,
+    "compareAtPrice": null,
+    "description": "A sturdy everyday carryall with a clean shape, deep main compartment, and comfortable shoulder straps.",
+    "material": "Cotton canvas (demo specification)",
+    "care": "Spot clean with a damp cloth. Air dry.",
+    "fit": "One size. Approx. 38 × 34 cm (demo specification).",
+    "images": [
+      "/images/accessories-stilllife.jpg",
+      "/images/campaign-summer.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Natural",
+        "hex": "#DCCFB7"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "publishedAt": "2026-07-03T09:00:00+05:45",
+    "labels": [],
+    "featuredTrending": false,
+    "popularityScore": 68,
+    "collections": [
+      "accessories",
+      "summer"
+    ],
+    "season": "all",
+    "variants": [
+      {
+        "id": "tote-canvas-natural-onesize",
+        "sku": "AAV-TOT-NAT-ONESIZE",
+        "size": "One size",
+        "color": "Natural",
+        "colorHex": "#DCCFB7",
+        "stock": 9,
+        "active": true
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "cap-everyday",
+    "slug": "everyday-cap",
+    "name": "Everyday Cap",
+    "category": "Accessories",
+    "categorySlug": "accessories",
+    "price": 2200,
+    "compareAtPrice": null,
+    "description": "A low-profile cap with a curved brim and an adjustable back strap. A simple finish to an everyday look.",
+    "material": "Cotton twill (demo specification)",
+    "care": "Spot clean only. Air dry away from direct heat.",
+    "fit": "One size with an adjustable strap.",
+    "images": [
+      "/images/accessories-stilllife.jpg",
+      "/images/product-tee.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#343431"
+      },
+      {
+        "name": "Olive",
+        "hex": "#777B63"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "publishedAt": "2026-06-22T09:00:00+05:45",
+    "labels": [],
+    "featuredTrending": false,
+    "popularityScore": 61,
+    "collections": [
+      "accessories",
+      "summer"
+    ],
+    "season": "all",
+    "variants": [
+      {
+        "id": "cap-everyday-charcoal-onesize",
+        "sku": "AAV-CAP-CHA-ONESIZE",
+        "size": "One size",
+        "color": "Charcoal",
+        "colorHex": "#343431",
+        "stock": 8,
+        "active": true
+      },
+      {
+        "id": "cap-everyday-olive-onesize",
+        "sku": "AAV-CAP-OLI-ONESIZE",
+        "size": "One size",
+        "color": "Olive",
+        "colorHex": "#777B63",
+        "stock": 9,
+        "active": true
+      }
+    ],
+    "published": true
+  },
+  {
+    "id": "tee-drop001",
+    "slug": "limited-drop-001-tee",
+    "name": "Limited Drop 001 Tee",
+    "category": "T-shirts",
+    "categorySlug": "t-shirts",
+    "price": 3800,
+    "compareAtPrice": null,
+    "description": "A first-edition campaign tee preserved as an archived collection story. This demo drop has ended and is not available to purchase.",
+    "material": "Midweight cotton jersey (demo specification)",
+    "care": "Wash cold with like colours. Turn inside out before washing. Do not tumble dry.",
+    "fit": "Relaxed fit. Model wears size M.",
+    "images": [
+      "/images/product-tee.jpg",
+      "/images/hero-campaign.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Ink",
+        "hex": "#242421"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "publishedAt": "2026-06-01T09:00:00+05:45",
+    "labels": [
+      "Limited Drop"
+    ],
+    "featuredTrending": false,
+    "popularityScore": 0,
+    "collections": [
+      "drop-001"
+    ],
+    "season": "all",
+    "dropSlug": "drop-001",
+    "dropStatus": "ended",
+    "variants": [
+      {
+        "id": "tee-drop001-ink-s",
+        "sku": "AAV-TEE-INK-S",
+        "size": "S",
+        "color": "Ink",
+        "colorHex": "#242421",
+        "stock": 0,
+        "active": true
+      },
+      {
+        "id": "tee-drop001-ink-m",
+        "sku": "AAV-TEE-INK-M",
+        "size": "M",
+        "color": "Ink",
+        "colorHex": "#242421",
+        "stock": 0,
+        "active": true
+      },
+      {
+        "id": "tee-drop001-ink-l",
+        "sku": "AAV-TEE-INK-L",
+        "size": "L",
+        "color": "Ink",
+        "colorHex": "#242421",
+        "stock": 0,
+        "active": true
+      },
+      {
+        "id": "tee-drop001-ink-xl",
+        "sku": "AAV-TEE-INK-XL",
+        "size": "XL",
+        "color": "Ink",
+        "colorHex": "#242421",
+        "stock": 0,
+        "active": true
+      }
+    ],
+    "published": true
+  }
+]
